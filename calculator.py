@@ -1,1 +1,1 @@
-class Calculator
+class Calculator:
